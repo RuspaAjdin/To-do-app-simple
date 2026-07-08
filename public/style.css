@@ -66,13 +66,13 @@ body {
     justify-content: left;
     flex-direction: row;
     flex-wrap: wrap;
-    gap:5px;
+    gap: 5px;
     margin-top: 2rem;
 }
 
-#task-div {
+.task-div {
     background-color: rgb(63, 47, 181);
-    color:white;
+    color: white;
     padding: 1rem;
     border: 5px solid rgb(142, 133, 199);
     border-radius: 10px;
